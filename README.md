@@ -1,5 +1,7 @@
 # Geofencing-Technology-for-Forgotten-Objects
 
+Status: In Progress
+
 This project will look to analyze a very real-world problem. 
 People tend to leave things they need for work or other activities,
 at home. Items such as phones, wallets, glasses or planners, 
